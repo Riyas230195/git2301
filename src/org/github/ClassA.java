@@ -16,9 +16,7 @@ public class ClassA {
 			System.out.println("Employee address: OMR");
 		}
 		
-		private void employeePhone() {
-			System.out.println("Employee phone: 9876543210");
-		}
+		
 		
 		public static void main(String[] args) {
 			
@@ -26,7 +24,7 @@ public class ClassA {
 			a.employeeAddress();
 			a.employeeID();
 			a.employeeName();
-			a.employeePhone();
+
 		}
 
 	}
